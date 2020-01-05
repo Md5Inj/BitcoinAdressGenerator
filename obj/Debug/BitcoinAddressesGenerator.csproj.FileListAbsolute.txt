@@ -1,0 +1,13 @@
+C:\Users\super\OneDrive\Рабочий стол\BitcoinAddressesGenerator-master\BitcoinAddressesGenerator\bin\Debug\BitcoinAddressesGenerator.exe.config
+C:\Users\super\OneDrive\Рабочий стол\BitcoinAddressesGenerator-master\BitcoinAddressesGenerator\bin\Debug\BitcoinAddressesGenerator.exe
+C:\Users\super\OneDrive\Рабочий стол\BitcoinAddressesGenerator-master\BitcoinAddressesGenerator\bin\Debug\BitcoinAddressesGenerator.pdb
+C:\Users\super\OneDrive\Рабочий стол\BitcoinAddressesGenerator-master\BitcoinAddressesGenerator\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\super\OneDrive\Рабочий стол\BitcoinAddressesGenerator-master\BitcoinAddressesGenerator\bin\Debug\NBitcoin.dll
+C:\Users\super\OneDrive\Рабочий стол\BitcoinAddressesGenerator-master\BitcoinAddressesGenerator\bin\Debug\NBitcoin.pdb
+C:\Users\super\OneDrive\Рабочий стол\BitcoinAddressesGenerator-master\BitcoinAddressesGenerator\bin\Debug\NBitcoin.xml
+C:\Users\super\OneDrive\Рабочий стол\BitcoinAddressesGenerator-master\BitcoinAddressesGenerator\obj\Debug\BitcoinAddressesGenerator.csprojResolveAssemblyReference.cache
+C:\Users\super\OneDrive\Рабочий стол\BitcoinAddressesGenerator-master\BitcoinAddressesGenerator\obj\Debug\RandomText.FormMain.resources
+C:\Users\super\OneDrive\Рабочий стол\BitcoinAddressesGenerator-master\BitcoinAddressesGenerator\obj\Debug\BitcoinAddressesGenerator.Properties.Resources.resources
+C:\Users\super\OneDrive\Рабочий стол\BitcoinAddressesGenerator-master\BitcoinAddressesGenerator\obj\Debug\BitcoinAddressesGenerator.csproj.GenerateResource.Cache
+C:\Users\super\OneDrive\Рабочий стол\BitcoinAddressesGenerator-master\BitcoinAddressesGenerator\obj\Debug\BitcoinAddressesGenerator.exe
+C:\Users\super\OneDrive\Рабочий стол\BitcoinAddressesGenerator-master\BitcoinAddressesGenerator\obj\Debug\BitcoinAddressesGenerator.pdb
